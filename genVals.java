@@ -39,14 +39,4 @@ public class genVals  {
         }
         return bValsInArray;
     }
-
-
-
-
-
-
-
-
-
-
 }
